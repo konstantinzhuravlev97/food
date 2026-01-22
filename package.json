@@ -1,0 +1,26 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/konstantinzhuravlev97/food#readme",
+  "bugs": {
+    "url": "https://github.com/konstantinzhuravlev97/food/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantinzhuravlev97/food.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tinyhttp/content-disposition": "^2.2.0"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
