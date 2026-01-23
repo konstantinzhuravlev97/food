@@ -12,7 +12,6 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +20,8 @@
     "@tinyhttp/content-disposition": "^2.2.0"
   },
   "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^1.0.0-beta.3",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
   }
 }
